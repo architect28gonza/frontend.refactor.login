@@ -1,0 +1,19 @@
+.font-label-app {
+    font-family: "Open Sans";
+    font-size: 13px;
+    margin: 2px;
+    color: rgb(80, 80, 80);
+    font-weight: 300;
+    margin-left: 3px;
+}
+
+.font-label-app-title {
+    font-family: "Open Sans";
+    font-weight: bold;
+    color: rgb(80, 80, 80);
+    font-size: 17px;
+    margin: 2px;
+    margin-left: 3px;
+}
+
+

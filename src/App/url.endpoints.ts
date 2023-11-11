@@ -1,0 +1,1 @@
+export const endpointLogin = "/api/v1/login" as string
